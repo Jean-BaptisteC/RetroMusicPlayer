@@ -12,8 +12,6 @@ android {
         minSdk 21
         targetSdk 35
 
-        vectorDrawables.useSupportLibrary = true
-
         applicationId namespace
         versionCode 10620
         versionName '6.2.0'
